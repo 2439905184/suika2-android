@@ -5,7 +5,7 @@ android {
     //ndkVersion '22.0.7026061'
     ndkVersion '24.0.8215888'
     defaultConfig {
-        applicationId "jp.luxion.suika"
+        applicationId "com.xsh.MusicRoom"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 2
